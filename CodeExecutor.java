@@ -52,8 +52,7 @@ public class CodeExecutor {
       return "Error: " + e.getMessage();
     }
   }
-
-  // Generates a minimal Java class with a main method containing user code
+ System.out.println("httk");
   private static String generateJavaClass(String methodBody) {
     return """
         public class Temp {
