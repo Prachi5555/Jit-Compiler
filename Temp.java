@@ -1,7 +1,10 @@
 public class Temp {
     public static void main(String[] args) {
-        for(int i = 1;i<10;i++){
-System.out.println(i*2);
-}
+        System.out.println("hi");
+int a =10;
+int b =19;
+int x =a+b;
+System.out.println(x);
+
     }
 }
